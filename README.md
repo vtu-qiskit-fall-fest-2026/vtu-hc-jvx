@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Jvx** · Team ID `VTU-QFF-HC-0100` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Jvx)
+[⬆ Back to Top](#jvx)
 
 </div>
